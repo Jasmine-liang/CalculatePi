@@ -1,10 +1,11 @@
 ## Calculating PI using MonteCarlo Method
 ### This is the result of calculating
-![Pi](/img/pi.png "Calculating PI")
+![PiImg](/img/pi.png "Calculating PI")
 ---
 ### Explaination of this design
 Pi = (4 * circleArea) / squareArea
-But how do we know the circleArea without knowing Pi?
+<br>
+But how do we know the circleArea without knowing Pi?  
 Here we use points:
 - First we generate random points
 - Those that fall in the cirlce represent the area of the circle: **circleArea**
