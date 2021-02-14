@@ -10,5 +10,5 @@ Here we use points:
 - Those that fall in the cirlce represent the area of the circle: **circleArea**
 - The total number of points represents the area of the square: **squareArea**
 ### Reference 
-[Monte Carlo method - Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-看得见的算法，幕课网
+- [Monte Carlo method - Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+- 看得见的算法，幕课网
