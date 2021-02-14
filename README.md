@@ -1,5 +1,8 @@
 ## Calculating PI using MonteCarlo Method
-### This is the result of calculating
+I visualize this process using Java Swing. Also write a calculation without the Graphics things, it's faster:)
+- VisualizedPi: The Visualized version
+- Pi: Non-visualized version
+### This is the result of Visualization
 ![PiImg](/img/pi.png "Calculating PI")
 ---
 ### Explaination of this design
